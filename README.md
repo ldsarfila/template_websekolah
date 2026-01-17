@@ -146,9 +146,9 @@ Edit `header.php` untuk posisi menu baru
 - Mobile Browsers (iOS Safari, Chrome Mobile)
 
 ## Requirements
-- WordPress 5.0+
-- PHP 7.4+
-- MySQL 5.6+
+- WordPress 8.0+
+- PHP 8.3+
+- MySQL 8.0+
 
 ## Plugin Rekomendasi
 
